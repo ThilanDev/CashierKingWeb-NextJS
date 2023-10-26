@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.listp {
+    padding: 2;
+    background: #fff;
+    cursor: pointer;
+}
